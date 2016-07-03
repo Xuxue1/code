@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: net.sourceforge.jchardet:jchardet:1.0:jar">
+    <CLASSES>
+      <root url="jar://D:/sbt/ivy/cache/net.sourceforge.jchardet/jchardet/jars/jchardet-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
