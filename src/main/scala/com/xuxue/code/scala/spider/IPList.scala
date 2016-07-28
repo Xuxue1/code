@@ -1,7 +1,6 @@
 package com.xuxue.code.scala.spider
 
 import java.net.{InetAddress, InetSocketAddress, Socket}
-
 import scala.util.{Failure, Success, Try}
 
 /**
